@@ -2,7 +2,7 @@
 
 - Description:
 
-A modern website built with React and Tailwind.
+A modern website built with React and Vite.js, which is a fast and easy-to-use package manager. I used Framer Motion to create some effects and Tailwind CSS for styling.
 
 - Objective:
 
